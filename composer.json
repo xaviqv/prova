@@ -1,0 +1,14 @@
+{
+    "name": "xaviqv/prova",
+    "description": "First package test",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "XaviQV",
+            "email": "xaviqv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
