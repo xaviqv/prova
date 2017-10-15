@@ -1,7 +1,7 @@
 {
     "name": "xaviqv/prova",
     "description": "First package test",
-    "type": "metapackage",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
